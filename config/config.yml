@@ -1,0 +1,5 @@
+foo:
+  development: development
+  test: test
+  production: production
+bar: bar
